@@ -1,5 +1,5 @@
 # DispatcherServletDemo
-利用反射通过DispatcherServlet处理请求
+利用反射通过DispatcherServlet处理请求  
 注意：  
 1.参数提交的方式必须是对象名.属性名的形式  
 2.所有的servlet需要继承DispatcherServlet  
